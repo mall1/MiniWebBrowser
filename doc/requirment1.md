@@ -2,7 +2,7 @@
 ## Requirment 1
 ### request HTTP
 ### display base labels
-- header `<h1>h1</hi>`
+- header `<h1>h1</h1>`
 
 - paragraph `<p>paragraph</p>`
 
